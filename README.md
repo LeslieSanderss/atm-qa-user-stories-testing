@@ -1,26 +1,4 @@
-atm-qa-user-stories-testing/
-│
-├── README.md
-├── user-stories/
-│   └── atm-user-stories.md
-│
-├── exploratory-testing/
-│   └── test-notes.md
-│
-├── bug-reports/
-│   └── defects-log.md
-│
-├── screenshots/
-│   ├── login.png
-│   ├── withdrawal.png
-│   ├── deposit.png
-│   ├── transfer.png
-│   └── statement.png
-│
-└── test-cases/
-    └── boundary-tests.md
-
-    # 🧪 ATM System QA Exploratory Testing Project
+# 🧪 ATM System QA Exploratory Testing Project
 
 ## 📌 Project Overview
 This project demonstrates manual QA testing skills using exploratory testing techniques based on user stories. The application under test is an ATM system.
