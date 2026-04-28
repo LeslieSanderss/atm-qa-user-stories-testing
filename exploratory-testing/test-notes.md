@@ -12,6 +12,8 @@
 - Actual: System allowed fewer than 4 digits in some cases
 
 📸 Screenshot: login.png
+![Login Screen](../screenshots/login.png)
+
 
 ---
 
@@ -26,3 +28,4 @@
 - System did not always validate boundary values correctly
 
 📸 Screenshot: withdrawal.png
+![Withdrawal Screen](../screenshots/withdrawal.png)
