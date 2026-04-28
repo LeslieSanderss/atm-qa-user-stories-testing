@@ -28,4 +28,5 @@
 - System did not always validate boundary values correctly
 
 📸 Screenshot: withdrawal.png
-![Withdrawal Screen](../screenshots/withdrawal.png)
+![Withdrawal Screen](../screenshots/withdrawal1.png)
+![Withdrawal Screen](../screenshots/withdrawal2.png)
