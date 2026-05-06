@@ -23,6 +23,3 @@ Login proceeds or partial validation occurs
 
 ---
 
-## 🐛 Bug #2: Negative Withdrawal Allowed
-**Severity:** Medium  
-**Module:** Withdrawal
