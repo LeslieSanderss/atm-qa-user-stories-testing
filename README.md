@@ -56,4 +56,11 @@ Screenshots included in `/screenshots` folder.
 - Boundary Testing
 - QA Reporting
 
+- ## 🧩 Agile & Jira Workflow
+
+This project also includes Agile/Scrum backlog documentation and Jira workflow evidence.
+
+See:
+- `/agile-process/jira-workflow.md`
+
 ---
